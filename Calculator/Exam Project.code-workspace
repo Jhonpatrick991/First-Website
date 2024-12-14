@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../pictures"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Exam Project"
+	}
+}
